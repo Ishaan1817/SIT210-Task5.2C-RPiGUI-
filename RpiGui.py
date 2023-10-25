@@ -46,7 +46,7 @@ def GreenLED():
         green_Led.on()
         GreenledButton["text"] = "Turn off green led"
         yellow_Led.off()
-        YellowledButton["text"] = "Turn on blue led"
+        YellowledButton["text"] = "Turn on yellow led"
         red_Led.off()
         RedledButton["text"] = "Turn on red led"
 
